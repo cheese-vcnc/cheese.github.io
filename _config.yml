@@ -2,8 +2,9 @@ title: 이인규의 개발노트
 author: 이인규
 email: mollder@naver.com
 copyright: © 2019 GitHub User
-description: 타다 서버 개발중인 이인규입니다.
-좋은 서비스를 만들고, 발전하는 것에 관심있습니다.    # this means to ignore newlines until "show_excerpts:"
+description: >
+ 타다 서버 개발중인 이인규입니다.
+ 좋은 서비스를 만들고, 발전하는 것에 관심있습니다.    # this means to ignore newlines until "show_excerpts:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 lin:
