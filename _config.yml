@@ -1,8 +1,8 @@
-title: 개발노트
+title: 이인규의 개발노트
 author: 이인규
 email: mollder@naver.com
 copyright: © 2019 GitHub User
-description: tada-server developer # this means to ignore newlines until "show_excerpts:"
+description:  # this means to ignore newlines until "show_excerpts:"
 show_excerpts: false # set to true to show excerpts on the homepage
 
 lin:
@@ -12,22 +12,22 @@ lin:
   avatar_path: assets/images/avatar.jpg
 
   # generate social links
-  social_links:
-    twitter: jekyllrb
-    github:  jekyll
-    medium:  jekyll
-    rss: rss
-    dribbble: jekyll
-    facebook: jekyll
-    flickr:   jekyll
-    instagram: jekyll
-    linkedin: jekyll
-    pinterest: jekyll
-    youtube_user: jekyll
-    youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
-    telegram: jekyll
-    googleplus: +jekyll
-    keybase: jekyll
+  #social_links:
+  #  twitter: jekyllrb
+  #  github:  jekyll
+  #  medium:  jekyll
+  #  rss: rss
+  #  dribbble: jekyll
+  #  facebook: jekyll
+  #  flickr:   jekyll
+  #  instagram: jekyll
+  #  linkedin: jekyll
+  #  pinterest: jekyll
+  #  youtube_user: jekyll
+  #  youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+  #  telegram: jekyll
+  #  googleplus: +jekyll
+  #  keybase: jekyll
 
 theme: lin
 
